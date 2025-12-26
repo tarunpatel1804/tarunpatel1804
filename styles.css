@@ -225,6 +225,64 @@ section {
     line-height: 1.8;
 }
 
+/* Education Section */
+.education {
+    background-color: var(--darker-bg);
+}
+
+.education-timeline {
+    max-width: 900px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.education-item {
+    display: flex;
+    gap: 2rem;
+    background-color: var(--card-bg);
+    padding: 2rem;
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+    transition: all 0.3s;
+    align-items: flex-start;
+}
+
+.education-item:hover {
+    transform: translateX(10px);
+    border-color: var(--accent);
+    box-shadow: 0 10px 30px rgba(96, 165, 250, 0.2);
+}
+
+.education-icon {
+    font-size: 3rem;
+    color: var(--accent);
+    min-width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.education-content h3 {
+    font-size: 1.4rem;
+    margin-bottom: 0.5rem;
+    color: var(--light-text);
+}
+
+.education-content h4 {
+    font-size: 1.1rem;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+}
+
+.education-year {
+    color: var(--gray-text);
+    font-size: 1rem;
+    margin: 0;
+}
+
 /* Skills Section */
 .skills-grid {
     display: grid;

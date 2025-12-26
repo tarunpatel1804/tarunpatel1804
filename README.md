@@ -72,7 +72,7 @@ To customize this template for your own use:
 
 - **Email**: tarunpatel.1804@gmail.com
 - **GitHub**: [@tarunpatel1804](https://github.com/tarunpatel1804)
-- **LinkedIn**: [Tarun Patel](https://linkedin.com/in/tarunpatel1804)
+- **LinkedIn**: [Tarun Patel](https://www.linkedin.com/in/tarunpa18)
 
 ## License
 
