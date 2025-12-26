@@ -1,4 +1,4 @@
-# Tarun Patel - Portfolio Website
+# Tarun Kumar Patel - Portfolio Website
 
 A modern, responsive portfolio website showcasing my work as a DevOps Engineer and Software Developer.
 
@@ -72,8 +72,8 @@ To customize this template for your own use:
 
 - **Email**: tarunpatel.1804@gmail.com
 - **GitHub**: [@tarunpatel1804](https://github.com/tarunpatel1804)
-- **LinkedIn**: [Tarun Patel](https://www.linkedin.com/in/tarunpa18)
+- **LinkedIn**: [Tarun Kumar Patel](https://www.linkedin.com/in/tarunpa18)
 
 ## License
 
-© 2025 Tarun Patel. All rights reserved.
+© 2025 Tarun Kumar Patel. All rights reserved.

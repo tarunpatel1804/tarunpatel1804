@@ -149,4 +149,4 @@ scrollToTopBtn.addEventListener('mouseleave', () => {
 
 // Log a welcome message
 console.log('%c👋 Welcome to my portfolio!', 'color: #60a5fa; font-size: 20px; font-weight: bold;');
-console.log('%cBuilt with ❤️ by Tarun Patel', 'color: #94a3b8; font-size: 14px;');
+console.log('%cBuilt with ❤️ by Tarun Kumar Patel', 'color: #94a3b8; font-size: 14px;');
